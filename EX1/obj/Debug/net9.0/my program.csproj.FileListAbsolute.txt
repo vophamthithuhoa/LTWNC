@@ -1,0 +1,28 @@
+C:\Users\84799\OneDrive\Máy tính\my program\bin\Debug\net9.0\my program.exe
+C:\Users\84799\OneDrive\Máy tính\my program\bin\Debug\net9.0\my program.deps.json
+C:\Users\84799\OneDrive\Máy tính\my program\bin\Debug\net9.0\my program.runtimeconfig.json
+C:\Users\84799\OneDrive\Máy tính\my program\bin\Debug\net9.0\my program.dll
+C:\Users\84799\OneDrive\Máy tính\my program\bin\Debug\net9.0\my program.pdb
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\my program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\my program.AssemblyInfoInputs.cache
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\my program.AssemblyInfo.cs
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\my program.csproj.CoreCompileInputs.cache
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\my program.dll
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\refint\my program.dll
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\my program.pdb
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\my program.genruntimeconfig.cache
+C:\Users\84799\OneDrive\Máy tính\my program\obj\Debug\net9.0\ref\my program.dll
+C:\Users\84799\OneDrive\Máy tính\EX1\bin\Debug\net9.0\my program.exe
+C:\Users\84799\OneDrive\Máy tính\EX1\bin\Debug\net9.0\my program.deps.json
+C:\Users\84799\OneDrive\Máy tính\EX1\bin\Debug\net9.0\my program.runtimeconfig.json
+C:\Users\84799\OneDrive\Máy tính\EX1\bin\Debug\net9.0\my program.dll
+C:\Users\84799\OneDrive\Máy tính\EX1\bin\Debug\net9.0\my program.pdb
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\my program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\my program.AssemblyInfoInputs.cache
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\my program.AssemblyInfo.cs
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\my program.csproj.CoreCompileInputs.cache
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\my program.dll
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\refint\my program.dll
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\my program.pdb
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\my program.genruntimeconfig.cache
+C:\Users\84799\OneDrive\Máy tính\EX1\obj\Debug\net9.0\ref\my program.dll
