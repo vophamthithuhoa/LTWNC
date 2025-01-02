@@ -1,0 +1,14 @@
+D:\Kì 6\LTWNC\EX2\bin\Debug\net9.0\EX2.exe
+D:\Kì 6\LTWNC\EX2\bin\Debug\net9.0\EX2.deps.json
+D:\Kì 6\LTWNC\EX2\bin\Debug\net9.0\EX2.runtimeconfig.json
+D:\Kì 6\LTWNC\EX2\bin\Debug\net9.0\EX2.dll
+D:\Kì 6\LTWNC\EX2\bin\Debug\net9.0\EX2.pdb
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\EX2.AssemblyInfoInputs.cache
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\EX2.AssemblyInfo.cs
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\EX2.csproj.CoreCompileInputs.cache
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\EX2.dll
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\refint\EX2.dll
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\EX2.pdb
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\EX2.genruntimeconfig.cache
+D:\Kì 6\LTWNC\EX2\obj\Debug\net9.0\ref\EX2.dll
